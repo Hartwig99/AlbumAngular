@@ -17,6 +17,6 @@
         <script src="polyfills.js" src="{{ asset('js/runtime.js')}}" ></script>
         <script src="vendor.js" src="{{ asset('js/runtime.js')}}"></script>
         <script src="main.js" src="{{ asset('js/runtime.js')}}" ></script>
-        
+        <p>teste<p>
     </body>
 </html>
